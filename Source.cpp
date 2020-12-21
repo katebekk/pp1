@@ -4,7 +4,7 @@
 #include "experiments.h"
 #include <math.h>
 
-size_t element_count = 100000000u;
+size_t element_count = 10000000u;
 
 double accumuate_sequential()
 {
